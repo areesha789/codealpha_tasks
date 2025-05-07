@@ -29,7 +29,7 @@ This repository contains all the tasks completed as part of the **CodeAlpha Inte
 
 ### ✅ Age Calculator (HTML + JS)
 - A web-based tool to calculate user's age from date of birth.
-- File: `index.html`
+- File: `Age_Calculator.html`
 
 
 ## 🧠 Data Science
@@ -76,7 +76,7 @@ This repository contains all the tasks completed as part of the **CodeAlpha Inte
   - Python
   - TensorFlow/Keras
   - Matplotlib
-- File: `main.py`
+- File: `Image_Recognition_MNIST.py`
 
 ---
 
