@@ -65,17 +65,14 @@ This repository contains all the tasks completed as part of the **CodeAlpha Inte
 
 ## 🤖 Machine Learning
 
-### ✅ MNIST Digit Classifier (CNN)
-- A Convolutional Neural Network that classifies handwritten digits using the MNIST dataset.
-- Workflow:
-  - Loads and normalizes image data
-  - Builds a multi-layer CNN model
-  - Trains and evaluates the model on MNIST test set
-  - Visualizes predicted results using Matplotlib
+### ✅ Image Recognition using CNN (MNIST)
+- A Convolutional Neural Network (CNN) that performs digit classification using the MNIST dataset.
+- This task demonstrates how machine learning can recognize patterns in pixel-based image data.
+- Applications like face recognition and OCR are built on similar image-based ML principles.
 - Technologies:
   - Python
   - TensorFlow/Keras
-  - Matplotlib
+  - Matplotlib (for visualizing predictions)
 - File: `Image_Recognition_MNIST.py`
 
 ---
