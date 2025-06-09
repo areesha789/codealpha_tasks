@@ -17,5 +17,4 @@ This project is a simple machine learning model to predict the creditworthiness 
 ## Output:
 Accuracy and classification report of the model.
 
-## Author:
-[Your Name]
+
